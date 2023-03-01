@@ -5,7 +5,7 @@
 This README exists for this project that I've been assigned for AP Computer Science Principles.
 Therefore, files in this repos will be highly dynamic and such changes will be noted. 
 <br>
-
+Changelog is in CHANGELOG.md
 
 ## Installation
 
