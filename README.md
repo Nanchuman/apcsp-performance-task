@@ -1,11 +1,12 @@
-# AP Computer Science Principles
+# AP Computer Science Principles (APCSP)
 
 ### Performance Task
 
 This README exists for this project that I've been assigned for AP Computer Science Principles.
-Therefore, files in this repos will be highly dynamic and such changes will be noted. 
-<br>
-Changelog is in CHANGELOG.md
+Therefore, files in this repos will be highly dynamic and such changes will be noted.
+In addition, this README will be tailored so that it supports/explains the requirements and nuances of the APCSP Performance Task guidelines.
+<br>  
+Changelog is in [CHANGELOG.md](https://github.com/Nanchuman/apcsp-performance-task/blob/63993b6422ac11e9d5a4cd8c1aa023c1a28148bb/CHANGELOG.md)
 
 ## Installation
 
